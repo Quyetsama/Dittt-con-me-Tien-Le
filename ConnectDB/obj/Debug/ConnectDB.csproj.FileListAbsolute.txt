@@ -1,0 +1,10 @@
+C:\Users\vanqu\source\repos\ConnectDB\ConnectDB\bin\Debug\ConnectDB.exe.config
+C:\Users\vanqu\source\repos\ConnectDB\ConnectDB\bin\Debug\ConnectDB.exe
+C:\Users\vanqu\source\repos\ConnectDB\ConnectDB\bin\Debug\ConnectDB.pdb
+C:\Users\vanqu\source\repos\ConnectDB\ConnectDB\obj\Debug\ConnectDB.csprojAssemblyReference.cache
+C:\Users\vanqu\source\repos\ConnectDB\ConnectDB\obj\Debug\ConnectDB.Form1.resources
+C:\Users\vanqu\source\repos\ConnectDB\ConnectDB\obj\Debug\ConnectDB.Properties.Resources.resources
+C:\Users\vanqu\source\repos\ConnectDB\ConnectDB\obj\Debug\ConnectDB.csproj.GenerateResource.cache
+C:\Users\vanqu\source\repos\ConnectDB\ConnectDB\obj\Debug\ConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\source\repos\ConnectDB\ConnectDB\obj\Debug\ConnectDB.exe
+C:\Users\vanqu\source\repos\ConnectDB\ConnectDB\obj\Debug\ConnectDB.pdb
